@@ -59,6 +59,7 @@ Feel free to submit pull requests or open issues for improvements.
 
 ## **Author**
 Muhammad Huzaifa
+
 **Email**: huzaifashamayl90@gmail.com
 
 
